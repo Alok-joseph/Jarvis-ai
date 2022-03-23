@@ -124,6 +124,6 @@ function jarvisStartingReply()
       {
         Speak("please wait...system initializing...backing up configurations...gathering audio and video files...");
         Speak("system initialized...");
-        Speak("i am online and ready... say push enable to talk... or simply click arc reactor...");
+        Speak("i am online and ready... say jarvis  to talk... or simply click arc reactor...");
         startListening();
       }
