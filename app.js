@@ -6,7 +6,7 @@ const machine = document.querySelector(".machine");
 // const msgs = document.querySelector(".messages");
 // whether the recognition is stopiing on my command or automatically
 let stopingR = false;
-// friday's commands
+// jarvis's commands
 let fridayComs = [];
 fridayComs.push("hi friday");
 fridayComs.push("what are your commands");
