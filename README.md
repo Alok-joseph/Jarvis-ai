@@ -14,3 +14,6 @@ Clone the project
 ```bash
   git clone https://github.com/Alok-joseph/Jarvis-ai/
 ```
+## Authors
+
+- [@Alok-joseph](https://github.com/Alok-joseph)
